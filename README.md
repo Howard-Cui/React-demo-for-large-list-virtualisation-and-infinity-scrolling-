@@ -12,7 +12,7 @@ This is a demo for me to try on long list optimisation with react-infinity-srcol
 Tanstack is for long list virtualization(although in this demo we only have 12 data in total in our list).
 
 ## How to start this project 
-1. install all the dependencies:
+1. install all the dependencies: 
    ```
    npm i
    ```
